@@ -1,4 +1,4 @@
-/*  Anna Júlia Ferreira de Souza, Luana Camilly dos Santos e Samuel Gomes Costa
+/*  Anna Júlia de Souza Ferreira, Luana Camilly dos Santos e Samuel Gomes Costa
     20/07/2021 ~ 29/07/2021
     O seguinte programa faz a entrada de alguns atributos de uma quantidade MAX de pessoas, 
     atributos como CPF, nome, altura e outros. Posteriormente, ele apresenta um menu de opcoes em
